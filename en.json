@@ -1,0 +1,1834 @@
+[
+	{
+		"country": "Afghanistan",
+		"noun": "Afghan(s)",
+		"adj": "Afghan",
+		"alpha-2": "AF",
+		"alpha-3": "AFG",
+		"country-code": 4
+	},
+	{
+		"country": "Albania",
+		"noun": "Albanian(s)",
+		"adj": "Albanian",
+		"alpha-2": "AL",
+		"alpha-3": "ALB",
+		"country-code": 8
+	},
+	{
+		"country": "Algeria",
+		"noun": "Algerian(s)",
+		"adj": "Algerian",
+		"alpha-2": "DZ",
+		"alpha-3": "DZA",
+		"country-code": 12
+	},
+	{
+		"country": "American Samoa",
+		"noun": "American Samoan(s) (US nationals)",
+		"adj": "American Samoan",
+		"alpha-2": "AS",
+		"alpha-3": "ASM",
+		"country-code": 16
+	},
+	{
+		"country": "Andorra",
+		"noun": "Andorran(s)",
+		"adj": "Andorran",
+		"alpha-2": "AD",
+		"alpha-3": "AND",
+		"country-code": 20
+	},
+	{
+		"country": "Angola",
+		"noun": "Angolan(s)",
+		"adj": "Angolan",
+		"alpha-2": "AO",
+		"alpha-3": "AGO",
+		"country-code": 24
+	},
+	{
+		"country": "Anguilla",
+		"noun": "Anguillan(s)",
+		"adj": "Anguillan",
+		"alpha-2": "AI",
+		"alpha-3": "AIA",
+		"country-code": 660
+	},
+	{
+		"country": "Antigua and Barbuda",
+		"noun": "Antiguan(s), Barbudan(s)",
+		"adj": "Antiguan, Barbudan",
+		"alpha-2": "AG",
+		"alpha-3": "ATG",
+		"country-code": 28
+	},
+	{
+		"country": "Argentina",
+		"noun": "Argentine(s)",
+		"adj": "Argentine",
+		"alpha-2": "AR",
+		"alpha-3": "ARG",
+		"country-code": 32
+	},
+	{
+		"country": "Armenia",
+		"noun": "Armenian(s)",
+		"adj": "Armenian",
+		"alpha-2": "AM",
+		"alpha-3": "ARM",
+		"country-code": 51
+	},
+	{
+		"country": "Aruba",
+		"noun": "Aruban(s)",
+		"adj": "Aruban; Dutch",
+		"alpha-2": "AW",
+		"alpha-3": "ABW",
+		"country-code": 533
+	},
+	{
+		"country": "Australia",
+		"noun": "Australian(s)",
+		"adj": "Australian",
+		"alpha-2": "AU",
+		"alpha-3": "AUS",
+		"country-code": 36
+	},
+	{
+		"country": "Austria",
+		"noun": "Austrian(s)",
+		"adj": "Austrian",
+		"alpha-2": "AT",
+		"alpha-3": "AUT",
+		"country-code": 40
+	},
+	{
+		"country": "Azerbaijan",
+		"noun": "Azerbaijani(s)",
+		"adj": "Azerbaijani",
+		"alpha-2": "AZ",
+		"alpha-3": "AZE",
+		"country-code": 31
+	},
+	{
+		"country": "Bahamas, The",
+		"noun": "Bahamian(s)",
+		"adj": "Bahamian",
+		"alpha-2": "BS",
+		"alpha-3": "BHS",
+		"country-code": 44
+	},
+	{
+		"country": "Bahrain",
+		"noun": "Bahraini(s)",
+		"adj": "Bahraini",
+		"alpha-2": "BH",
+		"alpha-3": "BHR",
+		"country-code": 48
+	},
+	{
+		"country": "Bangladesh",
+		"noun": "Bangladeshi(s)",
+		"adj": "Bangladeshi",
+		"alpha-2": "BD",
+		"alpha-3": "BGD",
+		"country-code": 50
+	},
+	{
+		"country": "Barbados",
+		"noun": "Barbadian(s) or Bajan (colloquial)",
+		"adj": "Barbadian or Bajan (colloquial)",
+		"alpha-2": "BB",
+		"alpha-3": "BRB",
+		"country-code": 52
+	},
+	{
+		"country": "Belarus",
+		"noun": "Belarusian(s)",
+		"adj": "Belarusian",
+		"alpha-2": "BY",
+		"alpha-3": "BLR",
+		"country-code": 112
+	},
+	{
+		"country": "Belgium",
+		"noun": "Belgian(s)",
+		"adj": "Belgian",
+		"alpha-2": "BE",
+		"alpha-3": "BEL",
+		"country-code": 56
+	},
+	{
+		"country": "Belize",
+		"noun": "Belizean(s)",
+		"adj": "Belizean",
+		"alpha-2": "BZ",
+		"alpha-3": "BLZ",
+		"country-code": 84
+	},
+	{
+		"country": "Benin",
+		"noun": "Beninese (singular and plural)",
+		"adj": "Beninese",
+		"alpha-2": "BJ",
+		"alpha-3": "BEN",
+		"country-code": 204
+	},
+	{
+		"country": "Bermuda",
+		"noun": "Bermudian(s)",
+		"adj": "Bermudian",
+		"alpha-2": "BM",
+		"alpha-3": "BMU",
+		"country-code": 60
+	},
+	{
+		"country": "Bhutan",
+		"noun": "Bhutanese (singular and plural)",
+		"adj": "Bhutanese",
+		"alpha-2": "BT",
+		"alpha-3": "BTN",
+		"country-code": 64
+	},
+	{
+		"country": "Bolivia",
+		"noun": "Bolivian(s)",
+		"adj": "Bolivian",
+		"alpha-2": "BO",
+		"alpha-3": "BOL",
+		"country-code": 68
+	},
+	{
+		"country": "Bosnia and Herzegovina",
+		"noun": "Bosnian(s), Herzegovinian(s)",
+		"adj": "Bosnian, Herzegovinian",
+		"alpha-2": "BA",
+		"alpha-3": "BIH",
+		"country-code": 70
+	},
+	{
+		"country": "Botswana",
+		"noun": "Motswana (singular), Batswana (plural)",
+		"adj": "Motswana (singular), Batswana (plural)",
+		"alpha-2": "BW",
+		"alpha-3": "BWA",
+		"country-code": 72
+	},
+	{
+		"country": "Brazil",
+		"noun": "Brazilian(s)",
+		"adj": "Brazilian",
+		"alpha-2": "BR",
+		"alpha-3": "BRA",
+		"country-code": 76
+	},
+	{
+		"country": "British Virgin Islands",
+		"noun": "British Virgin Islander(s)",
+		"adj": "British Virgin Islander",
+		"alpha-2": "VG",
+		"alpha-3": "VGB",
+		"country-code": 92
+	},
+	{
+		"country": "Brunei",
+		"noun": "Bruneian(s)",
+		"adj": "Bruneian",
+		"alpha-2": "BN",
+		"alpha-3": "BRN",
+		"country-code": 96
+	},
+	{
+		"country": "Bulgaria",
+		"noun": "Bulgarian(s)",
+		"adj": "Bulgarian",
+		"alpha-2": "BG",
+		"alpha-3": "BGR",
+		"country-code": 100
+	},
+	{
+		"country": "Burkina Faso",
+		"noun": "Burkinabe (singular and plural)",
+		"adj": "Burkinabe",
+		"alpha-2": "BF",
+		"alpha-3": "BFA",
+		"country-code": 854
+	},
+	{
+		"country": "Burma",
+		"noun": "Burmese (singular and plural)",
+		"adj": "Burmese",
+        "alpha-2": "MM",
+        "alpha-3": "MMR",
+        "country-code": 104
+	},
+	{
+		"country": "Burundi",
+		"noun": "Burundian(s)",
+		"adj": "Burundian",
+		"alpha-2": "BI",
+		"alpha-3": "BDI",
+		"country-code": 108
+	},
+	{
+		"country": "Cabo Verde",
+		"noun": "Cabo Verdean(s)",
+		"adj": "Cabo Verdean",
+		"alpha-2": "CV",
+		"alpha-3": "CPV",
+		"country-code": 132
+	},
+	{
+		"country": "Cambodia",
+		"noun": "Cambodian(s)",
+		"adj": "Cambodian",
+		"alpha-2": "KH",
+		"alpha-3": "KHM",
+		"country-code": 116
+	},
+	{
+		"country": "Cameroon",
+		"noun": "Cameroonian(s)",
+		"adj": "Cameroonian",
+		"alpha-2": "CM",
+		"alpha-3": "CMR",
+		"country-code": 120
+	},
+	{
+		"country": "Canada",
+		"noun": "Canadian(s)",
+		"adj": "Canadian",
+		"alpha-2": "CA",
+		"alpha-3": "CAN",
+		"country-code": 124
+	},
+	{
+		"country": "Cayman Islands",
+		"noun": "Caymanian(s)",
+		"adj": "Caymanian",
+		"alpha-2": "KY",
+		"alpha-3": "CYM",
+		"country-code": 136
+	},
+	{
+		"country": "Central African Republic",
+		"noun": "Central African(s)",
+		"adj": "Central African",
+		"alpha-2": "CF",
+		"alpha-3": "CAF",
+		"country-code": 140
+	},
+	{
+		"country": "Chad",
+		"noun": "Chadian(s)",
+		"adj": "Chadian",
+		"alpha-2": "TD",
+		"alpha-3": "TCD",
+		"country-code": 148
+	},
+	{
+		"country": "Chile",
+		"noun": "Chilean(s)",
+		"adj": "Chilean",
+		"alpha-2": "CL",
+		"alpha-3": "CHL",
+		"country-code": 152
+	},
+	{
+		"country": "China",
+		"noun": "Chinese (singular and plural)",
+		"adj": "Chinese",
+		"alpha-2": "CN",
+		"alpha-3": "CHN",
+		"country-code": 156
+	},
+	{
+		"country": "Christmas Island",
+		"noun": "Christmas Islander(s)",
+		"adj": "Christmas Island",
+		"alpha-2": "CX",
+		"alpha-3": "CXR",
+		"country-code": 162
+	},
+	{
+		"country": "Cocos (Keeling) Islands",
+		"noun": "Cocos Islander(s)",
+		"adj": "Cocos Islander",
+		"alpha-2": "CC",
+		"alpha-3": "CCK",
+		"country-code": 166
+	},
+	{
+		"country": "Colombia",
+		"noun": "Colombian(s)",
+		"adj": "Colombian",
+		"alpha-2": "CO",
+		"alpha-3": "COL",
+		"country-code": 170
+	},
+	{
+		"country": "Comoros",
+		"noun": "Comoran(s)",
+		"adj": "Comoran",
+		"alpha-2": "KM",
+		"alpha-3": "COM",
+		"country-code": 174
+	},
+	{
+		"country": "Congo, Democratic Republic of the",
+		"noun": "Congolese (singular and plural)",
+		"adj": "Congolese or Congo",
+        "alpha-2": "CD",
+        "alpha-3": "COD",
+		"country-code": 180
+	},
+	{
+		"country": "Congo, Republic of the",
+		"noun": "Congolese (singular and plural)",
+		"adj": "Congolese or Congo",
+        "alpha-2": "CG",
+        "alpha-3": "COG",
+        "country-code": 178
+	},
+	{
+		"country": "Cook Islands",
+		"noun": "Cook Islander(s)",
+		"adj": "Cook Islander",
+		"alpha-2": "CK",
+		"alpha-3": "COK",
+		"country-code": 184
+	},
+	{
+		"country": "Costa Rica",
+		"noun": "Costa Rican(s)",
+		"adj": "Costa Rican",
+		"alpha-2": "CR",
+		"alpha-3": "CRI",
+		"country-code": 188
+	},
+	{
+		"country": "Cote d'Ivoire",
+		"noun": "Ivoirian(s)",
+		"adj": "Ivoirian"
+	},
+	{
+		"country": "Croatia",
+		"noun": "Croat(s), Croatian(s)",
+		"adj": "Croatian",
+		"alpha-2": "HR",
+		"alpha-3": "HRV",
+		"country-code": 191
+	},
+	{
+		"country": "Cuba",
+		"noun": "Cuban(s)",
+		"adj": "Cuban",
+		"alpha-2": "CU",
+		"alpha-3": "CUB",
+		"country-code": 192
+	},
+	{
+		"country": "Curacao",
+		"noun": "Curacaoan",
+		"adj": "Curacaoan; Dutch"
+	},
+	{
+		"country": "Cyprus",
+		"noun": "Cypriot(s)",
+		"adj": "Cypriot",
+		"alpha-2": "CY",
+		"alpha-3": "CYP",
+		"country-code": 196
+	},
+	{
+		"country": "Czechia",
+		"noun": "Czech(s)",
+		"adj": "Czech"
+	},
+	{
+		"country": "Denmark",
+		"noun": "Dane(s)",
+		"adj": "Danish",
+		"alpha-2": "DK",
+		"alpha-3": "DNK",
+		"country-code": 208
+	},
+	{
+		"country": "Djibouti",
+		"noun": "Djiboutian(s)",
+		"adj": "Djiboutian",
+		"alpha-2": "DJ",
+		"alpha-3": "DJI",
+		"country-code": 262
+	},
+	{
+		"country": "Dominica",
+		"noun": "Dominican(s)",
+		"adj": "Dominican",
+		"alpha-2": "DM",
+		"alpha-3": "DMA",
+		"country-code": 212
+	},
+	{
+		"country": "Dominican Republic",
+		"noun": "Dominican(s)",
+		"adj": "Dominican",
+		"alpha-2": "DO",
+		"alpha-3": "DOM",
+		"country-code": 214
+	},
+	{
+		"country": "Ecuador",
+		"noun": "Ecuadorian(s)",
+		"adj": "Ecuadorian",
+		"alpha-2": "EC",
+		"alpha-3": "ECU",
+		"country-code": 218
+	},
+	{
+		"country": "Egypt",
+		"noun": "Egyptian(s)",
+		"adj": "Egyptian",
+		"alpha-2": "EG",
+		"alpha-3": "EGY",
+		"country-code": 818
+	},
+	{
+		"country": "El Salvador",
+		"noun": "Salvadoran(s)",
+		"adj": "Salvadoran",
+		"alpha-2": "SV",
+		"alpha-3": "SLV",
+		"country-code": 222
+	},
+	{
+		"country": "Equatorial Guinea",
+		"noun": "Equatorial Guinean(s) or Equatoguinean(s)",
+		"adj": "Equatorial Guinean or Equatoguinean",
+		"alpha-2": "GQ",
+		"alpha-3": "GNQ",
+		"country-code": 226
+	},
+	{
+		"country": "Eritrea",
+		"noun": "Eritrean(s)",
+		"adj": "Eritrean",
+		"alpha-2": "ER",
+		"alpha-3": "ERI",
+		"country-code": 232
+	},
+	{
+		"country": "Estonia",
+		"noun": "Estonian(s)",
+		"adj": "Estonian",
+		"alpha-2": "EE",
+		"alpha-3": "EST",
+		"country-code": 233
+	},
+	{
+		"country": "Ethiopia",
+		"noun": "Ethiopian(s)",
+		"adj": "Ethiopian",
+		"alpha-2": "ET",
+		"alpha-3": "ETH",
+		"country-code": 231
+	},
+	{
+		"country": "Falkland Islands (Islas Malvinas)",
+		"noun": "Falkland Islander(s)",
+		"adj": "Falkland Island",
+        "alpha-2": "FK",
+        "alpha-3": "FLK",
+        "country-code": 238
+	},
+	{
+		"country": "Faroe Islands",
+		"noun": "Faroese (singular and plural)",
+		"adj": "Faroese",
+		"alpha-2": "FO",
+		"alpha-3": "FRO",
+		"country-code": 234
+	},
+	{
+		"country": "Fiji",
+		"noun": "Fijian(s)",
+		"adj": "Fijian",
+		"alpha-2": "FJ",
+		"alpha-3": "FJI",
+		"country-code": 242
+	},
+	{
+		"country": "Finland",
+		"noun": "Finn(s)",
+		"adj": "Finnish",
+		"alpha-2": "FI",
+		"alpha-3": "FIN",
+		"country-code": 246
+	},
+	{
+		"country": "France",
+		"noun": "Frenchman(men), Frenchwoman(women)",
+		"adj": "French",
+		"alpha-2": "FR",
+		"alpha-3": "FRA",
+		"country-code": 250
+	},
+	{
+		"country": "French Polynesia",
+		"noun": "French Polynesian(s)",
+		"adj": "French Polynesian",
+		"alpha-2": "PF",
+		"alpha-3": "PYF",
+		"country-code": 258
+	},
+	{
+		"country": "Gabon",
+		"noun": "Gabonese (singular and plural)",
+		"adj": "Gabonese",
+		"alpha-2": "GA",
+		"alpha-3": "GAB",
+		"country-code": 266
+	},
+	{
+		"country": "Gambia, The",
+		"noun": "Gambian(s)",
+		"adj": "Gambian",
+        "alpha-2": "GM",
+        "alpha-3": "GMB",
+        "country-code": 270
+	},
+	{
+		"country": "Gaza Strip",
+		"noun": "NA",
+		"adj": "NA"
+	},
+	{
+		"country": "Georgia",
+		"noun": "Georgian(s)",
+		"adj": "Georgian",
+		"alpha-2": "GE",
+		"alpha-3": "GEO",
+		"country-code": 268
+	},
+	{
+		"country": "Germany",
+		"noun": "German(s)",
+		"adj": "German",
+		"alpha-2": "DE",
+		"alpha-3": "DEU",
+		"country-code": 276
+	},
+	{
+		"country": "Ghana",
+		"noun": "Ghanaian(s)",
+		"adj": "Ghanaian",
+		"alpha-2": "GH",
+		"alpha-3": "GHA",
+		"country-code": 288
+	},
+	{
+		"country": "Gibraltar",
+		"noun": "Gibraltarian(s)",
+		"adj": "Gibraltar",
+		"alpha-2": "GI",
+		"alpha-3": "GIB",
+		"country-code": 292
+	},
+	{
+		"country": "Greece",
+		"noun": "Greek(s)",
+		"adj": "Greek",
+		"alpha-2": "GR",
+		"alpha-3": "GRC",
+		"country-code": 300
+	},
+	{
+		"country": "Greenland",
+		"noun": "Greenlander(s)",
+		"adj": "Greenlandic",
+		"alpha-2": "GL",
+		"alpha-3": "GRL",
+		"country-code": 304
+	},
+	{
+		"country": "Grenada",
+		"noun": "Grenadian(s)",
+		"adj": "Grenadian",
+		"alpha-2": "GD",
+		"alpha-3": "GRD",
+		"country-code": 308
+	},
+	{
+		"country": "Guam",
+		"noun": "Guamanian(s) (US citizens)",
+		"adj": "Guamanian",
+		"alpha-2": "GU",
+		"alpha-3": "GUM",
+		"country-code": 316
+	},
+	{
+		"country": "Guatemala",
+		"noun": "Guatemalan(s)",
+		"adj": "Guatemalan",
+		"alpha-2": "GT",
+		"alpha-3": "GTM",
+		"country-code": 320
+	},
+	{
+		"country": "Guernsey",
+		"noun": "Channel Islander(s)",
+		"adj": "Channel Islander",
+		"alpha-2": "GG",
+		"alpha-3": "GGY",
+		"country-code": 831
+	},
+	{
+		"country": "Guinea-Bissau",
+		"noun": "Bissau-Guinean(s)",
+		"adj": "Bissau-Guinean",
+		"alpha-2": "GW",
+		"alpha-3": "GNB",
+		"country-code": 624
+	},
+	{
+		"country": "Guinea",
+		"noun": "Guinean(s)",
+		"adj": "Guinean",
+		"alpha-2": "GN",
+		"alpha-3": "GIN",
+		"country-code": 324
+	},
+	{
+		"country": "Guyana",
+		"noun": "Guyanese (singular and plural)",
+		"adj": "Guyanese",
+		"alpha-2": "GY",
+		"alpha-3": "GUY",
+		"country-code": 328
+	},
+	{
+		"country": "Haiti",
+		"noun": "Haitian(s)",
+		"adj": "Haitian",
+		"alpha-2": "HT",
+		"alpha-3": "HTI",
+		"country-code": 332
+	},
+	{
+		"country": "Holy See (Vatican City)",
+		"noun": "none",
+		"adj": "none",
+        "alpha-2": "VA",
+        "alpha-3": "VAT",
+        "country-code": 336
+	},
+	{
+		"country": "Honduras",
+		"noun": "Honduran(s)",
+		"adj": "Honduran",
+		"alpha-2": "HN",
+		"alpha-3": "HND",
+		"country-code": 340
+	},
+	{
+		"country": "Hong Kong",
+		"noun": "Chinese/Hong Konger",
+		"adj": "Chinese/Hong Kong",
+		"alpha-2": "HK",
+		"alpha-3": "HKG",
+		"country-code": 344
+	},
+	{
+		"country": "Hungary",
+		"noun": "Hungarian(s)",
+		"adj": "Hungarian",
+		"alpha-2": "HU",
+		"alpha-3": "HUN",
+		"country-code": 348
+	},
+	{
+		"country": "Iceland",
+		"noun": "Icelander(s)",
+		"adj": "Icelandic",
+		"alpha-2": "IS",
+		"alpha-3": "ISL",
+		"country-code": 352
+	},
+	{
+		"country": "India",
+		"noun": "Indian(s)",
+		"adj": "Indian",
+		"alpha-2": "IN",
+		"alpha-3": "IND",
+		"country-code": 356
+	},
+	{
+		"country": "Indonesia",
+		"noun": "Indonesian(s)",
+		"adj": "Indonesian",
+		"alpha-2": "ID",
+		"alpha-3": "IDN",
+		"country-code": 360
+	},
+	{
+		"country": "Iran",
+		"noun": "Iranian(s)",
+		"adj": "Iranian"
+	},
+	{
+		"country": "Iraq",
+		"noun": "Iraqi(s)",
+		"adj": "Iraqi",
+		"alpha-2": "IQ",
+		"alpha-3": "IRQ",
+		"country-code": 368
+	},
+	{
+		"country": "Ireland",
+		"noun": "Irishman(men), Irishwoman(women), Irish (collective plural)",
+		"adj": "Irish",
+		"alpha-2": "IE",
+		"alpha-3": "IRL",
+		"country-code": 372
+	},
+	{
+		"country": "Isle of Man",
+		"noun": "Manxman(men), Manxwoman(women)",
+		"adj": "Manx",
+		"alpha-2": "IM",
+		"alpha-3": "IMN",
+		"country-code": 833
+	},
+	{
+		"country": "Israel",
+		"noun": "Israeli(s)",
+		"adj": "Israeli",
+		"alpha-2": "IL",
+		"alpha-3": "ISR",
+		"country-code": 376
+	},
+	{
+		"country": "Italy",
+		"noun": "Italian(s)",
+		"adj": "Italian",
+		"alpha-2": "IT",
+		"alpha-3": "ITA",
+		"country-code": 380
+	},
+	{
+		"country": "Jamaica",
+		"noun": "Jamaican(s)",
+		"adj": "Jamaican",
+		"alpha-2": "JM",
+		"alpha-3": "JAM",
+		"country-code": 388
+	},
+	{
+		"country": "Japan",
+		"noun": "Japanese (singular and plural)",
+		"adj": "Japanese",
+		"alpha-2": "JP",
+		"alpha-3": "JPN",
+		"country-code": 392
+	},
+	{
+		"country": "Jersey",
+		"noun": "Channel Islander(s)",
+		"adj": "Channel Islander",
+		"alpha-2": "JE",
+		"alpha-3": "JEY",
+		"country-code": 832
+	},
+	{
+		"country": "Jordan",
+		"noun": "Jordanian(s)",
+		"adj": "Jordanian",
+		"alpha-2": "JO",
+		"alpha-3": "JOR",
+		"country-code": 400
+	},
+	{
+		"country": "Kazakhstan",
+		"noun": "Kazakhstani(s)",
+		"adj": "Kazakhstani",
+		"alpha-2": "KZ",
+		"alpha-3": "KAZ",
+		"country-code": 398
+	},
+	{
+		"country": "Kenya",
+		"noun": "Kenyan(s)",
+		"adj": "Kenyan",
+		"alpha-2": "KE",
+		"alpha-3": "KEN",
+		"country-code": 404
+	},
+	{
+		"country": "Kiribati",
+		"noun": "I-Kiribati (singular and plural)",
+		"adj": "I-Kiribati",
+		"alpha-2": "KI",
+		"alpha-3": "KIR",
+		"country-code": 296
+	},
+	{
+		"country": "Korea, North",
+		"noun": "Korean(s)",
+		"adj": "Korean",
+        "alpha-2": "KP",
+        "alpha-3": "PRK",
+        "country-code": 408
+	},
+	{
+		"country": "Korea, South",
+		"noun": "Korean(s)",
+		"adj": "Korean",
+        "alpha-2": "KR",
+        "alpha-3": "KOR",
+        "country-code": 410
+	},
+	{
+		"country": "Kosovo",
+		"noun": "Kosovar (Albanian), Kosovac (Serbian)",
+		"adj": "Kosovar (Albanian), Kosovski (Serbian)",
+        "alpha-2": "XK"
+	},
+	{
+		"country": "Kuwait",
+		"noun": "Kuwaiti(s)",
+		"adj": "Kuwaiti",
+		"alpha-2": "KW",
+		"alpha-3": "KWT",
+		"country-code": 414
+	},
+	{
+		"country": "Kyrgyzstan",
+		"noun": "Kyrgyzstani(s)",
+		"adj": "Kyrgyzstani",
+		"alpha-2": "KG",
+		"alpha-3": "KGZ",
+		"country-code": 417
+	},
+	{
+		"country": "Laos",
+		"noun": "Lao(s) or Laotian(s)",
+		"adj": "Lao or Laotian"
+	},
+	{
+		"country": "Latvia",
+		"noun": "Latvian(s)",
+		"adj": "Latvian",
+		"alpha-2": "LV",
+		"alpha-3": "LVA",
+		"country-code": 428
+	},
+	{
+		"country": "Lebanon",
+		"noun": "Lebanese (singular and plural)",
+		"adj": "Lebanese",
+		"alpha-2": "LB",
+		"alpha-3": "LBN",
+		"country-code": 422
+	},
+	{
+		"country": "Lesotho",
+		"noun": "Mosotho (singular), Basotho (plural)",
+		"adj": "Basotho",
+		"alpha-2": "LS",
+		"alpha-3": "LSO",
+		"country-code": 426
+	},
+	{
+		"country": "Liberia",
+		"noun": "Liberian(s)",
+		"adj": "Liberian",
+		"alpha-2": "LR",
+		"alpha-3": "LBR",
+		"country-code": 430
+	},
+	{
+		"country": "Libya",
+		"noun": "Libyan(s)",
+		"adj": "Libyan",
+		"alpha-2": "LY",
+		"alpha-3": "LBY",
+		"country-code": 434
+	},
+	{
+		"country": "Liechtenstein",
+		"noun": "Liechtensteiner(s)",
+		"adj": "Liechtenstein",
+		"alpha-2": "LI",
+		"alpha-3": "LIE",
+		"country-code": 438
+	},
+	{
+		"country": "Lithuania",
+		"noun": "Lithuanian(s)",
+		"adj": "Lithuanian",
+		"alpha-2": "LT",
+		"alpha-3": "LTU",
+		"country-code": 440
+	},
+	{
+		"country": "Luxembourg",
+		"noun": "Luxembourger(s)",
+		"adj": "Luxembourg",
+		"alpha-2": "LU",
+		"alpha-3": "LUX",
+		"country-code": 442
+	},
+	{
+		"country": "Macau",
+		"noun": "Chinese",
+		"adj": "Chinese",
+        "alpha-2": "MO",
+        "alpha-3": "MAC",
+        "country-code": 446
+	},
+	{
+		"country": "Macedonia",
+		"noun": "Macedonian(s)",
+		"adj": "Macedonian",
+        "alpha-2": "MK",
+        "alpha-3": "MKD",
+        "country-code": 807
+	},
+	{
+		"country": "Madagascar",
+		"noun": "Malagasy (singular and plural)",
+		"adj": "Malagasy",
+		"alpha-2": "MG",
+		"alpha-3": "MDG",
+		"country-code": 450
+	},
+	{
+		"country": "Malawi",
+		"noun": "Malawian(s)",
+		"adj": "Malawian",
+		"alpha-2": "MW",
+		"alpha-3": "MWI",
+		"country-code": 454
+	},
+	{
+		"country": "Malaysia",
+		"noun": "Malaysian(s)",
+		"adj": "Malaysian",
+		"alpha-2": "MY",
+		"alpha-3": "MYS",
+		"country-code": 458
+	},
+	{
+		"country": "Maldives",
+		"noun": "Maldivian(s)",
+		"adj": "Maldivian",
+		"alpha-2": "MV",
+		"alpha-3": "MDV",
+		"country-code": 462
+	},
+	{
+		"country": "Mali",
+		"noun": "Malian(s)",
+		"adj": "Malian",
+		"alpha-2": "ML",
+		"alpha-3": "MLI",
+		"country-code": 466
+	},
+	{
+		"country": "Malta",
+		"noun": "Maltese (singular and plural)",
+		"adj": "Maltese",
+		"alpha-2": "MT",
+		"alpha-3": "MLT",
+		"country-code": 470
+	},
+	{
+		"country": "Marshall Islands",
+		"noun": "Marshallese (singular and plural)",
+		"adj": "Marshallese",
+		"alpha-2": "MH",
+		"alpha-3": "MHL",
+		"country-code": 584
+	},
+	{
+		"country": "Mauritania",
+		"noun": "Mauritanian(s)",
+		"adj": "Mauritanian",
+		"alpha-2": "MR",
+		"alpha-3": "MRT",
+		"country-code": 478
+	},
+	{
+		"country": "Mauritius",
+		"noun": "Mauritian(s)",
+		"adj": "Mauritian",
+		"alpha-2": "MU",
+		"alpha-3": "MUS",
+		"country-code": 480
+	},
+	{
+		"country": "Mexico",
+		"noun": "Mexican(s)",
+		"adj": "Mexican",
+		"alpha-2": "MX",
+		"alpha-3": "MEX",
+		"country-code": 484
+	},
+	{
+		"country": "Micronesia, Federated States of",
+		"noun": "Micronesian(s)",
+		"adj": "Micronesian; Chuukese, Kosraen(s), Pohnpeian(s), Yapese",
+        "alpha-2": "FM",
+        "alpha-3": "FSM",
+        "country-code": 583
+	},
+	{
+		"country": "Moldova",
+		"noun": "Moldovan(s)",
+		"adj": "Moldovan",
+        "alpha-2": "MD",
+        "alpha-3": "MDA",
+        "country-code": 498
+	},
+	{
+		"country": "Monaco",
+		"noun": "Monegasque(s) or Monacan(s)",
+		"adj": "Monegasque or Monacan",
+		"alpha-2": "MC",
+		"alpha-3": "MCO",
+		"country-code": 492
+	},
+	{
+		"country": "Mongolia",
+		"noun": "Mongolian(s)",
+		"adj": "Mongolian",
+		"alpha-2": "MN",
+		"alpha-3": "MNG",
+		"country-code": 496
+	},
+	{
+		"country": "Montenegro",
+		"noun": "Montenegrin(s)",
+		"adj": "Montenegrin",
+		"alpha-2": "ME",
+		"alpha-3": "MNE",
+		"country-code": 499
+	},
+	{
+		"country": "Montserrat",
+		"noun": "Montserratian(s)",
+		"adj": "Montserratian",
+		"alpha-2": "MS",
+		"alpha-3": "MSR",
+		"country-code": 500
+	},
+	{
+		"country": "Morocco",
+		"noun": "Moroccan(s)",
+		"adj": "Moroccan",
+		"alpha-2": "MA",
+		"alpha-3": "MAR",
+		"country-code": 504
+	},
+	{
+		"country": "Mozambique",
+		"noun": "Mozambican(s)",
+		"adj": "Mozambican",
+		"alpha-2": "MZ",
+		"alpha-3": "MOZ",
+		"country-code": 508
+	},
+	{
+		"country": "Namibia",
+		"noun": "Namibian(s)",
+		"adj": "Namibian",
+		"alpha-2": "NA",
+		"alpha-3": "NAM",
+		"country-code": 516
+	},
+	{
+		"country": "Nauru",
+		"noun": "Nauruan(s)",
+		"adj": "Nauruan",
+		"alpha-2": "NR",
+		"alpha-3": "NRU",
+		"country-code": 520
+	},
+	{
+		"country": "Nepal",
+		"noun": "Nepali (singular and plural)",
+		"adj": "Nepali",
+		"alpha-2": "NP",
+		"alpha-3": "NPL",
+		"country-code": 524
+	},
+	{
+		"country": "Netherlands",
+		"noun": "Dutchman(men), Dutchwoman(women)",
+		"adj": "Dutch",
+		"alpha-2": "NL",
+		"alpha-3": "NLD",
+		"country-code": 528
+	},
+	{
+		"country": "New Caledonia",
+		"noun": "New Caledonian(s)",
+		"adj": "New Caledonian",
+		"alpha-2": "NC",
+		"alpha-3": "NCL",
+		"country-code": 540
+	},
+	{
+		"country": "New Zealand",
+		"noun": "New Zealander(s)",
+		"adj": "New Zealand",
+		"alpha-2": "NZ",
+		"alpha-3": "NZL",
+		"country-code": 554
+	},
+	{
+		"country": "Nicaragua",
+		"noun": "Nicaraguan(s)",
+		"adj": "Nicaraguan",
+		"alpha-2": "NI",
+		"alpha-3": "NIC",
+		"country-code": 558
+	},
+	{
+		"country": "Nigeria",
+		"noun": "Nigerian(s)",
+		"adj": "Nigerian",
+		"alpha-2": "NG",
+		"alpha-3": "NGA",
+		"country-code": 566
+	},
+	{
+		"country": "Niger",
+		"noun": "Nigerien(s)",
+		"adj": "Nigerien",
+		"alpha-2": "NE",
+		"alpha-3": "NER",
+		"country-code": 562
+	},
+	{
+		"country": "Niue",
+		"noun": "Niuean(s)",
+		"adj": "Niuean",
+		"alpha-2": "NU",
+		"alpha-3": "NIU",
+		"country-code": 570
+	},
+	{
+		"country": "Norfolk Island",
+		"noun": "Norfolk Islander(s)",
+		"adj": "Norfolk Islander(s)",
+		"alpha-2": "NF",
+		"alpha-3": "NFK",
+		"country-code": 574
+	},
+	{
+		"country": "Northern Mariana Islands",
+		"noun": "NA (US citizens)",
+		"adj": "NA",
+		"alpha-2": "MP",
+		"alpha-3": "MNP",
+		"country-code": 580
+	},
+	{
+		"country": "Norway",
+		"noun": "Norwegian(s)",
+		"adj": "Norwegian",
+		"alpha-2": "NO",
+		"alpha-3": "NOR",
+		"country-code": 578
+	},
+	{
+		"country": "Oman",
+		"noun": "Omani(s)",
+		"adj": "Omani",
+		"alpha-2": "OM",
+		"alpha-3": "OMN",
+		"country-code": 512
+	},
+	{
+		"country": "Pakistan",
+		"noun": "Pakistani(s)",
+		"adj": "Pakistani",
+		"alpha-2": "PK",
+		"alpha-3": "PAK",
+		"country-code": 586
+	},
+	{
+		"country": "Palau",
+		"noun": "Palauan(s)",
+		"adj": "Palauan",
+		"alpha-2": "PW",
+		"alpha-3": "PLW",
+		"country-code": 585
+	},
+	{
+		"country": "Panama",
+		"noun": "Panamanian(s)",
+		"adj": "Panamanian",
+		"alpha-2": "PA",
+		"alpha-3": "PAN",
+		"country-code": 591
+	},
+	{
+		"country": "Papua New Guinea",
+		"noun": "Papua New Guinean(s)",
+		"adj": "Papua New Guinean",
+		"alpha-2": "PG",
+		"alpha-3": "PNG",
+		"country-code": 598
+	},
+	{
+		"country": "Paraguay",
+		"noun": "Paraguayan(s)",
+		"adj": "Paraguayan",
+		"alpha-2": "PY",
+		"alpha-3": "PRY",
+		"country-code": 600
+	},
+	{
+		"country": "Peru",
+		"noun": "Peruvian(s)",
+		"adj": "Peruvian",
+		"alpha-2": "PE",
+		"alpha-3": "PER",
+		"country-code": 604
+	},
+	{
+		"country": "Philippines",
+		"noun": "Filipino(s)",
+		"adj": "Philippine",
+		"alpha-2": "PH",
+		"alpha-3": "PHL",
+		"country-code": 608
+	},
+	{
+		"country": "Pitcairn Islands",
+		"noun": "Pitcairn Islander(s)",
+		"adj": "Pitcairn Islander"
+	},
+	{
+		"country": "Poland",
+		"noun": "Pole(s)",
+		"adj": "Polish",
+		"alpha-2": "PL",
+		"alpha-3": "POL",
+		"country-code": 616
+	},
+	{
+		"country": "Portugal",
+		"noun": "Portuguese (singular and plural)",
+		"adj": "Portuguese",
+		"alpha-2": "PT",
+		"alpha-3": "PRT",
+		"country-code": 620
+	},
+	{
+		"country": "Puerto Rico",
+		"noun": "Puerto Rican(s) (US citizens)",
+		"adj": "Puerto Rican",
+		"alpha-2": "PR",
+		"alpha-3": "PRI",
+		"country-code": 630
+	},
+	{
+		"country": "Qatar",
+		"noun": "Qatari(s)",
+		"adj": "Qatari",
+		"alpha-2": "QA",
+		"alpha-3": "QAT",
+		"country-code": 634
+	},
+	{
+		"country": "Romania",
+		"noun": "Romanian(s)",
+		"adj": "Romanian",
+		"alpha-2": "RO",
+		"alpha-3": "ROU",
+		"country-code": 642
+	},
+	{
+		"country": "Russia",
+		"noun": "Russian(s)",
+		"adj": "Russian"
+	},
+	{
+		"country": "Rwanda",
+		"noun": "Rwandan(s)",
+		"adj": "Rwandan",
+		"alpha-2": "RW",
+		"alpha-3": "RWA",
+		"country-code": 646
+	},
+	{
+		"country": "Saint Helena, Ascension, and Tristan da Cunha",
+		"noun": "Saint Helenian(s)",
+		"adj": "Saint Helenian",
+        "alpha-2": "SH",
+        "alpha-3": "SHN",
+        "country-code": 654
+	},
+	{
+		"country": "Saint Kitts and Nevis",
+		"noun": "Kittitian(s), Nevisian(s)",
+		"adj": "Kittitian, Nevisian",
+		"alpha-2": "KN",
+		"alpha-3": "KNA",
+		"country-code": 659
+	},
+	{
+		"country": "Saint Lucia",
+		"noun": "Saint Lucian(s)",
+		"adj": "Saint Lucian",
+		"alpha-2": "LC",
+		"alpha-3": "LCA",
+		"country-code": 662
+	},
+	{
+		"country": "Saint Pierre and Miquelon",
+		"noun": "Frenchman(men), Frenchwoman(women)",
+		"adj": "French",
+		"alpha-2": "PM",
+		"alpha-3": "SPM",
+		"country-code": 666
+	},
+	{
+		"country": "Saint Vincent and the Grenadines",
+		"noun": "Saint Vincentian(s) or Vincentian(s)",
+		"adj": "Saint Vincentian or Vincentian",
+		"alpha-2": "VC",
+		"alpha-3": "VCT",
+		"country-code": 670
+	},
+	{
+		"country": "Samoa",
+		"noun": "Samoan(s)",
+		"adj": "Samoan",
+		"alpha-2": "WS",
+		"alpha-3": "WSM",
+		"country-code": 882
+	},
+	{
+		"country": "San Marino",
+		"noun": "Sammarinese (singular and plural)",
+		"adj": "Sammarinese",
+		"alpha-2": "SM",
+		"alpha-3": "SMR",
+		"country-code": 674
+	},
+	{
+		"country": "Sao Tome and Principe",
+		"noun": "Sao Tomean(s)",
+		"adj": "Sao Tomean",
+		"alpha-2": "ST",
+		"alpha-3": "STP",
+		"country-code": 678
+	},
+	{
+		"country": "Saudi Arabia",
+		"noun": "Saudi(s)",
+		"adj": "Saudi or Saudi Arabian",
+		"alpha-2": "SA",
+		"alpha-3": "SAU",
+		"country-code": 682
+	},
+	{
+		"country": "Senegal",
+		"noun": "Senegalese (singular and plural)",
+		"adj": "Senegalese",
+		"alpha-2": "SN",
+		"alpha-3": "SEN",
+		"country-code": 686
+	},
+	{
+		"country": "Serbia",
+		"noun": "Serb(s)",
+		"adj": "Serbian",
+		"alpha-2": "RS",
+		"alpha-3": "SRB",
+		"country-code": 688
+	},
+	{
+		"country": "Seychelles",
+		"noun": "Seychellois (singular and plural)",
+		"adj": "Seychellois",
+		"alpha-2": "SC",
+		"alpha-3": "SYC",
+		"country-code": 690
+	},
+	{
+		"country": "Sierra Leone",
+		"noun": "Sierra Leonean(s)",
+		"adj": "Sierra Leonean",
+		"alpha-2": "SL",
+		"alpha-3": "SLE",
+		"country-code": 694
+	},
+	{
+		"country": "Singapore",
+		"noun": "Singaporean(s)",
+		"adj": "Singapore",
+		"alpha-2": "SG",
+		"alpha-3": "SGP",
+		"country-code": 702
+	},
+	{
+		"country": "Slovakia",
+		"noun": "Slovak(s)",
+		"adj": "Slovak",
+		"alpha-2": "SK",
+		"alpha-3": "SVK",
+		"country-code": 703
+	},
+	{
+		"country": "Slovenia",
+		"noun": "Slovene(s)",
+		"adj": "Slovenian",
+		"alpha-2": "SI",
+		"alpha-3": "SVN",
+		"country-code": 705
+	},
+	{
+		"country": "Solomon Islands",
+		"noun": "Solomon Islander(s)",
+		"adj": "Solomon Islander",
+		"alpha-2": "SB",
+		"alpha-3": "SLB",
+		"country-code": 90
+	},
+	{
+		"country": "Somalia",
+		"noun": "Somali(s)",
+		"adj": "Somali",
+		"alpha-2": "SO",
+		"alpha-3": "SOM",
+		"country-code": 706
+	},
+	{
+		"country": "South Africa",
+		"noun": "South African(s)",
+		"adj": "South African",
+		"alpha-2": "ZA",
+		"alpha-3": "ZAF",
+		"country-code": 710
+	},
+	{
+		"country": "South Sudan",
+		"noun": "South Sudanese (singular and plural)",
+		"adj": "South Sudanese",
+		"alpha-2": "SS",
+		"alpha-3": "SSD",
+		"country-code": 728
+	},
+	{
+		"country": "Spain",
+		"noun": "Spaniard(s)",
+		"adj": "Spanish",
+		"alpha-2": "ES",
+		"alpha-3": "ESP",
+		"country-code": 724
+	},
+	{
+		"country": "Sri Lanka",
+		"noun": "Sri Lankan(s)",
+		"adj": "Sri Lankan",
+		"alpha-2": "LK",
+		"alpha-3": "LKA",
+		"country-code": 144
+	},
+	{
+		"country": "Sudan",
+		"noun": "Sudanese (singular and plural)",
+		"adj": "Sudanese",
+		"alpha-2": "SD",
+		"alpha-3": "SDN",
+		"country-code": 729
+	},
+	{
+		"country": "Suriname",
+		"noun": "Surinamer(s)",
+		"adj": "Surinamese",
+		"alpha-2": "SR",
+		"alpha-3": "SUR",
+		"country-code": 740
+	},
+	{
+		"country": "Swaziland",
+		"noun": "Swazi(s)",
+		"adj": "Swazi",
+		"alpha-2": "SZ",
+		"alpha-3": "SWZ",
+		"country-code": 748
+	},
+	{
+		"country": "Sweden",
+		"noun": "Swede(s)",
+		"adj": "Swedish",
+		"alpha-2": "SE",
+		"alpha-3": "SWE",
+		"country-code": 752
+	},
+	{
+		"country": "Switzerland",
+		"noun": "Swiss (singular and plural)",
+		"adj": "Swiss",
+		"alpha-2": "CH",
+		"alpha-3": "CHE",
+		"country-code": 756
+	},
+	{
+		"country": "Syria",
+		"noun": "Syrian(s)",
+		"adj": "Syrian",
+        "alpha-2": "SY",
+        "alpha-3": "SYR",
+        "country-code": 760
+	},
+	{
+		"country": "Taiwan",
+		"noun": "Taiwan (singular and plural)",
+		"adj": "example - he or she is from Taiwan; they are from Taiwan",
+        "alpha-2": "TW",
+        "alpha-3": "TWN",
+        "country-code": 158
+	},
+	{
+		"country": "Tajikistan",
+		"noun": "Tajikistani(s)",
+		"adj": "Tajikistani",
+		"alpha-2": "TJ",
+		"alpha-3": "TJK",
+		"country-code": 762
+	},
+	{
+		"country": "Tanzania",
+		"noun": "Tanzanian(s)",
+		"adj": "Tanzanian"
+	},
+	{
+		"country": "Thailand",
+		"noun": "Thai (singular and plural)",
+		"adj": "Thai",
+		"alpha-2": "TH",
+		"alpha-3": "THA",
+		"country-code": 764
+	},
+	{
+		"country": "Timor-Leste",
+		"noun": "Timorese",
+		"adj": "Timorese",
+		"alpha-2": "TL",
+		"alpha-3": "TLS",
+		"country-code": 626
+	},
+	{
+		"country": "Togo",
+		"noun": "Togolese (singular and plural)",
+		"adj": "Togolese",
+		"alpha-2": "TG",
+		"alpha-3": "TGO",
+		"country-code": 768
+	},
+	{
+		"country": "Tokelau",
+		"noun": "Tokelauan(s)",
+		"adj": "Tokelauan",
+		"alpha-2": "TK",
+		"alpha-3": "TKL",
+		"country-code": 772
+	},
+	{
+		"country": "Tonga",
+		"noun": "Tongan(s)",
+		"adj": "Tongan",
+		"alpha-2": "TO",
+		"alpha-3": "TON",
+		"country-code": 776
+	},
+	{
+		"country": "Trinidad and Tobago",
+		"noun": "Trinidadian(s), Tobagonian(s)",
+		"adj": "Trinidadian, Tobagonian",
+		"alpha-2": "TT",
+		"alpha-3": "TTO",
+		"country-code": 780
+	},
+	{
+		"country": "Tunisia",
+		"noun": "Tunisian(s)",
+		"adj": "Tunisian",
+		"alpha-2": "TN",
+		"alpha-3": "TUN",
+		"country-code": 788
+	},
+	{
+		"country": "Turkey",
+		"noun": "Turk(s)",
+		"adj": "Turkish",
+		"alpha-2": "TR",
+		"alpha-3": "TUR",
+		"country-code": 792
+	},
+	{
+		"country": "Turkmenistan",
+		"noun": "Turkmen(s)",
+		"adj": "Turkmen",
+		"alpha-2": "TM",
+		"alpha-3": "TKM",
+		"country-code": 795
+	},
+	{
+		"country": "Turks and Caicos Islands",
+		"noun": "none",
+		"adj": "none",
+		"alpha-2": "TC",
+		"alpha-3": "TCA",
+		"country-code": 796
+	},
+	{
+		"country": "Tuvalu",
+		"noun": "Tuvaluan(s)",
+		"adj": "Tuvaluan",
+		"alpha-2": "TV",
+		"alpha-3": "TUV",
+		"country-code": 798
+	},
+	{
+		"country": "Uganda",
+		"noun": "Ugandan(s)",
+		"adj": "Ugandan",
+		"alpha-2": "UG",
+		"alpha-3": "UGA",
+		"country-code": 800
+	},
+	{
+		"country": "Ukraine",
+		"noun": "Ukrainian(s)",
+		"adj": "Ukrainian",
+		"alpha-2": "UA",
+		"alpha-3": "UKR",
+		"country-code": 804
+	},
+	{
+		"country": "United Arab Emirates",
+		"noun": "Emirati(s)",
+		"adj": "Emirati",
+		"alpha-2": "AE",
+		"alpha-3": "ARE",
+		"country-code": 784
+	},
+	{
+		"country": "United Kingdom",
+		"noun": "Briton(s), British (collective plural)",
+		"adj": "British",
+        "alpha-2": "UK",
+        "alpha-3": "GBR",
+        "country-code": 826
+	},
+	{
+		"country": "United States",
+		"noun": "American(s)",
+		"adj": "American",
+        "alpha-2": "US",
+        "alpha-3": "USA",
+        "country-code": 840
+	},
+	{
+		"country": "Uruguay",
+		"noun": "Uruguayan(s)",
+		"adj": "Uruguayan",
+		"alpha-2": "UY",
+		"alpha-3": "URY",
+		"country-code": 858
+	},
+	{
+		"country": "Uzbekistan",
+		"noun": "Uzbekistani",
+		"adj": "Uzbekistani",
+		"alpha-2": "UZ",
+		"alpha-3": "UZB",
+		"country-code": 860
+	},
+	{
+		"country": "Vanuatu",
+		"noun": "Ni-Vanuatu (singular and plural)",
+		"adj": "Ni-Vanuatu",
+		"alpha-2": "VU",
+		"alpha-3": "VUT",
+		"country-code": 548
+	},
+	{
+		"country": "Venezuela",
+		"noun": "Venezuelan(s)",
+		"adj": "Venezuelan",
+        "alpha-2": "VE",
+        "alpha-3": "VEN",
+        "country-code": 862
+	},
+	{
+		"country": "Vietnam",
+		"noun": "Vietnamese (singular and plural)",
+		"adj": "Vietnamese",
+        "alpha-2": "VN",
+        "alpha-3": "VNM",
+        "country-code": 704
+	},
+	{
+		"country": "Virgin Islands",
+		"noun": "Virgin Islander(s) (US citizens)",
+		"adj": "Virgin Islander",
+        "alpha-2": "VI",
+        "alpha-3": "VIR",
+        "country-code": 850
+	},
+	{
+		"country": "Wallis and Futuna",
+		"noun": "Wallisian(s), Futunan(s), or Wallis and Futuna Islanders",
+		"adj": "Wallisian, Futunan, or Wallis and Futuna Islander",
+		"alpha-2": "WF",
+		"alpha-3": "WLF",
+		"country-code": 876
+	},
+	{
+		"country": "West Bank",
+		"noun": "NA",
+		"adj": "NA"
+	},
+	{
+		"country": "Western Sahara",
+		"noun": "Sahrawi(s), Sahraoui(s)",
+		"adj": "Sahrawi, Sahrawian, Sahraouian",
+		"alpha-2": "EH",
+		"alpha-3": "ESH",
+		"country-code": 732
+	},
+	{
+		"country": "Yemen",
+		"noun": "Yemeni(s)",
+		"adj": "Yemeni",
+		"alpha-2": "YE",
+		"alpha-3": "YEM",
+		"country-code": 887
+	},
+	{
+		"country": "Zambia",
+		"noun": "Zambian(s)",
+		"adj": "Zambian",
+		"alpha-2": "ZM",
+		"alpha-3": "ZMB",
+		"country-code": 894
+	},
+	{
+		"country": "Zimbabwe",
+		"noun": "Zimbabwean(s)",
+		"adj": "Zimbabwean",
+		"alpha-2": "ZW",
+		"alpha-3": "ZWE",
+		"country-code": 716
+	}
+]
