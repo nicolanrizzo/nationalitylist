@@ -75,7 +75,7 @@ France,"Frenchman(men), Frenchwoman(women)",French,FR,FRA,250
 French Polynesia,French Polynesian(s),French Polynesian,PF,PYF,258
 Gabon,Gabonese (singular and plural),Gabonese,GA,GAB,266
 "Gambia, The",Gambian(s),Gambian,GM,GMB,270
-Gaza Strip,NA,NA
+Gaza Strip,NA,NA,,,
 Georgia,Georgian(s),Georgian,GE,GEO,268
 Germany,German(s),German,DE,DEU,276
 Ghana,Ghanaian(s),Ghanaian,GH,GHA,288
@@ -97,7 +97,7 @@ Hungary,Hungarian(s),Hungarian,HU,HUN,348
 Iceland,Icelander(s),Icelandic,IS,ISL,352
 India,Indian(s),Indian,IN,IND,356
 Indonesia,Indonesian(s),Indonesian,ID,IDN,360
-Iran,Iranian(s),Iranian
+Iran,Iranian(s),Iranian,,,
 Iraq,Iraqi(s),Iraqi,IQ,IRQ,368
 Ireland,"Irishman(men), Irishwoman(women), Irish (collective plural)",Irish,IE,IRL,372
 Isle of Man,"Manxman(men), Manxwoman(women)",Manx,IM,IMN,833
