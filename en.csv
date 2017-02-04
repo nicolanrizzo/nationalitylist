@@ -112,10 +112,10 @@ Kenya,Kenyan(s),Kenyan,KE,KEN,404
 Kiribati,I-Kiribati (singular and plural),I-Kiribati,KI,KIR,296
 "Korea, North",Korean(s),Korean,KP,PRK,408
 "Korea, South",Korean(s),Korean,KR,KOR,410
-Kosovo,"Kosovar (Albanian), Kosovac (Serbian)","Kosovar (Albanian), Kosovski (Serbian)",XK
+Kosovo,"Kosovar (Albanian), Kosovac (Serbian)","Kosovar (Albanian), Kosovski (Serbian)",XK,,,
 Kuwait,Kuwaiti(s),Kuwaiti,KW,KWT,414
 Kyrgyzstan,Kyrgyzstani(s),Kyrgyzstani,KG,KGZ,417
-Laos,Lao(s) or Laotian(s),Lao or Laotian
+Laos,Lao(s) or Laotian(s),Lao or Laotian,,,
 Latvia,Latvian(s),Latvian,LV,LVA,428
 Lebanon,Lebanese (singular and plural),Lebanese,LB,LBN,422
 Lesotho,"Mosotho (singular), Basotho (plural)",Basotho,LS,LSO,426
@@ -227,7 +227,7 @@ Venezuela,Venezuelan(s),Venezuelan,VE,VEN,862
 Vietnam,Vietnamese (singular and plural),Vietnamese,VN,VNM,704
 Virgin Islands,Virgin Islander(s) (US citizens),Virgin Islander,VI,VIR,850
 Wallis and Futuna,"Wallisian(s), Futunan(s), or Wallis and Futuna Islanders","Wallisian, Futunan, or Wallis and Futuna Islander",WF,WLF,876
-West Bank,NA,NA
+West Bank,NA,NA,,,
 Western Sahara,"Sahrawi(s), Sahraoui(s)","Sahrawi, Sahrawian, Sahraouian",EH,ESH,732
 Yemen,Yemeni(s),Yemeni,YE,YEM,887
 Zambia,Zambian(s),Zambian,ZM,ZMB,894
