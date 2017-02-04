@@ -1,0 +1,234 @@
+country,noun,adj,alpha-2,alpha-3,country-code
+Afghanistan,Afghan(s),Afghan,AF,AFG,4
+Albania,Albanian(s),Albanian,AL,ALB,8
+Algeria,Algerian(s),Algerian,DZ,DZA,12
+American Samoa,American Samoan(s) (US nationals),American Samoan,AS,ASM,16
+Andorra,Andorran(s),Andorran,AD,AND,20
+Angola,Angolan(s),Angolan,AO,AGO,24
+Anguilla,Anguillan(s),Anguillan,AI,AIA,660
+Antigua and Barbuda,"Antiguan(s), Barbudan(s)","Antiguan, Barbudan",AG,ATG,28
+Argentina,Argentine(s),Argentine,AR,ARG,32
+Armenia,Armenian(s),Armenian,AM,ARM,51
+Aruba,Aruban(s),Aruban; Dutch,AW,ABW,533
+Australia,Australian(s),Australian,AU,AUS,36
+Austria,Austrian(s),Austrian,AT,AUT,40
+Azerbaijan,Azerbaijani(s),Azerbaijani,AZ,AZE,31
+"Bahamas, The",Bahamian(s),Bahamian,BS,BHS,44
+Bahrain,Bahraini(s),Bahraini,BH,BHR,48
+Bangladesh,Bangladeshi(s),Bangladeshi,BD,BGD,50
+Barbados,Barbadian(s) or Bajan (colloquial),Barbadian or Bajan (colloquial),BB,BRB,52
+Belarus,Belarusian(s),Belarusian,BY,BLR,112
+Belgium,Belgian(s),Belgian,BE,BEL,56
+Belize,Belizean(s),Belizean,BZ,BLZ,84
+Benin,Beninese (singular and plural),Beninese,BJ,BEN,204
+Bermuda,Bermudian(s),Bermudian,BM,BMU,60
+Bhutan,Bhutanese (singular and plural),Bhutanese,BT,BTN,64
+Bolivia,Bolivian(s),Bolivian,BO,BOL,68
+Bosnia and Herzegovina,"Bosnian(s), Herzegovinian(s)","Bosnian, Herzegovinian",BA,BIH,70
+Botswana,"Motswana (singular), Batswana (plural)","Motswana (singular), Batswana (plural)",BW,BWA,72
+Brazil,Brazilian(s),Brazilian,BR,BRA,76
+British Virgin Islands,British Virgin Islander(s),British Virgin Islander,VG,VGB,92
+Brunei,Bruneian(s),Bruneian,BN,BRN,96
+Bulgaria,Bulgarian(s),Bulgarian,BG,BGR,100
+Burkina Faso,Burkinabe (singular and plural),Burkinabe,BF,BFA,854
+Burma,Burmese (singular and plural),Burmese,MM,MMR,104
+Burundi,Burundian(s),Burundian,BI,BDI,108
+Cabo Verde,Cabo Verdean(s),Cabo Verdean,CV,CPV,132
+Cambodia,Cambodian(s),Cambodian,KH,KHM,116
+Cameroon,Cameroonian(s),Cameroonian,CM,CMR,120
+Canada,Canadian(s),Canadian,CA,CAN,124
+Cayman Islands,Caymanian(s),Caymanian,KY,CYM,136
+Central African Republic,Central African(s),Central African,CF,CAF,140
+Chad,Chadian(s),Chadian,TD,TCD,148
+Chile,Chilean(s),Chilean,CL,CHL,152
+China,Chinese (singular and plural),Chinese,CN,CHN,156
+Christmas Island,Christmas Islander(s),Christmas Island,CX,CXR,162
+Cocos (Keeling) Islands,Cocos Islander(s),Cocos Islander,CC,CCK,166
+Colombia,Colombian(s),Colombian,CO,COL,170
+Comoros,Comoran(s),Comoran,KM,COM,174
+"Congo, Democratic Republic of the",Congolese (singular and plural),Congolese or Congo,CD,COD,180
+"Congo, Republic of the",Congolese (singular and plural),Congolese or Congo,CG,COG,178
+Cook Islands,Cook Islander(s),Cook Islander,CK,COK,184
+Costa Rica,Costa Rican(s),Costa Rican,CR,CRI,188
+Cote d'Ivoire,Ivoirian(s),Ivoirian
+Croatia,"Croat(s), Croatian(s)",Croatian,HR,HRV,191
+Cuba,Cuban(s),Cuban,CU,CUB,192
+Curacao,Curacaoan,Curacaoan; Dutch
+Cyprus,Cypriot(s),Cypriot,CY,CYP,196
+Czechia,Czech(s),Czech
+Denmark,Dane(s),Danish,DK,DNK,208
+Djibouti,Djiboutian(s),Djiboutian,DJ,DJI,262
+Dominica,Dominican(s),Dominican,DM,DMA,212
+Dominican Republic,Dominican(s),Dominican,DO,DOM,214
+Ecuador,Ecuadorian(s),Ecuadorian,EC,ECU,218
+Egypt,Egyptian(s),Egyptian,EG,EGY,818
+El Salvador,Salvadoran(s),Salvadoran,SV,SLV,222
+Equatorial Guinea,Equatorial Guinean(s) or Equatoguinean(s),Equatorial Guinean or Equatoguinean,GQ,GNQ,226
+Eritrea,Eritrean(s),Eritrean,ER,ERI,232
+Estonia,Estonian(s),Estonian,EE,EST,233
+Ethiopia,Ethiopian(s),Ethiopian,ET,ETH,231
+Falkland Islands (Islas Malvinas),Falkland Islander(s),Falkland Island,FK,FLK,238
+Faroe Islands,Faroese (singular and plural),Faroese,FO,FRO,234
+Fiji,Fijian(s),Fijian,FJ,FJI,242
+Finland,Finn(s),Finnish,FI,FIN,246
+France,"Frenchman(men), Frenchwoman(women)",French,FR,FRA,250
+French Polynesia,French Polynesian(s),French Polynesian,PF,PYF,258
+Gabon,Gabonese (singular and plural),Gabonese,GA,GAB,266
+"Gambia, The",Gambian(s),Gambian,GM,GMB,270
+Gaza Strip,NA,NA
+Georgia,Georgian(s),Georgian,GE,GEO,268
+Germany,German(s),German,DE,DEU,276
+Ghana,Ghanaian(s),Ghanaian,GH,GHA,288
+Gibraltar,Gibraltarian(s),Gibraltar,GI,GIB,292
+Greece,Greek(s),Greek,GR,GRC,300
+Greenland,Greenlander(s),Greenlandic,GL,GRL,304
+Grenada,Grenadian(s),Grenadian,GD,GRD,308
+Guam,Guamanian(s) (US citizens),Guamanian,GU,GUM,316
+Guatemala,Guatemalan(s),Guatemalan,GT,GTM,320
+Guernsey,Channel Islander(s),Channel Islander,GG,GGY,831
+Guinea-Bissau,Bissau-Guinean(s),Bissau-Guinean,GW,GNB,624
+Guinea,Guinean(s),Guinean,GN,GIN,324
+Guyana,Guyanese (singular and plural),Guyanese,GY,GUY,328
+Haiti,Haitian(s),Haitian,HT,HTI,332
+Holy See (Vatican City),none,none,VA,VAT,336
+Honduras,Honduran(s),Honduran,HN,HND,340
+Hong Kong,Chinese/Hong Konger,Chinese/Hong Kong,HK,HKG,344
+Hungary,Hungarian(s),Hungarian,HU,HUN,348
+Iceland,Icelander(s),Icelandic,IS,ISL,352
+India,Indian(s),Indian,IN,IND,356
+Indonesia,Indonesian(s),Indonesian,ID,IDN,360
+Iran,Iranian(s),Iranian
+Iraq,Iraqi(s),Iraqi,IQ,IRQ,368
+Ireland,"Irishman(men), Irishwoman(women), Irish (collective plural)",Irish,IE,IRL,372
+Isle of Man,"Manxman(men), Manxwoman(women)",Manx,IM,IMN,833
+Israel,Israeli(s),Israeli,IL,ISR,376
+Italy,Italian(s),Italian,IT,ITA,380
+Jamaica,Jamaican(s),Jamaican,JM,JAM,388
+Japan,Japanese (singular and plural),Japanese,JP,JPN,392
+Jersey,Channel Islander(s),Channel Islander,JE,JEY,832
+Jordan,Jordanian(s),Jordanian,JO,JOR,400
+Kazakhstan,Kazakhstani(s),Kazakhstani,KZ,KAZ,398
+Kenya,Kenyan(s),Kenyan,KE,KEN,404
+Kiribati,I-Kiribati (singular and plural),I-Kiribati,KI,KIR,296
+"Korea, North",Korean(s),Korean,KP,PRK,408
+"Korea, South",Korean(s),Korean,KR,KOR,410
+Kosovo,"Kosovar (Albanian), Kosovac (Serbian)","Kosovar (Albanian), Kosovski (Serbian)",XK
+Kuwait,Kuwaiti(s),Kuwaiti,KW,KWT,414
+Kyrgyzstan,Kyrgyzstani(s),Kyrgyzstani,KG,KGZ,417
+Laos,Lao(s) or Laotian(s),Lao or Laotian
+Latvia,Latvian(s),Latvian,LV,LVA,428
+Lebanon,Lebanese (singular and plural),Lebanese,LB,LBN,422
+Lesotho,"Mosotho (singular), Basotho (plural)",Basotho,LS,LSO,426
+Liberia,Liberian(s),Liberian,LR,LBR,430
+Libya,Libyan(s),Libyan,LY,LBY,434
+Liechtenstein,Liechtensteiner(s),Liechtenstein,LI,LIE,438
+Lithuania,Lithuanian(s),Lithuanian,LT,LTU,440
+Luxembourg,Luxembourger(s),Luxembourg,LU,LUX,442
+Macau,Chinese,Chinese,MO,MAC,446
+Macedonia,Macedonian(s),Macedonian,MK,MKD,807
+Madagascar,Malagasy (singular and plural),Malagasy,MG,MDG,450
+Malawi,Malawian(s),Malawian,MW,MWI,454
+Malaysia,Malaysian(s),Malaysian,MY,MYS,458
+Maldives,Maldivian(s),Maldivian,MV,MDV,462
+Mali,Malian(s),Malian,ML,MLI,466
+Malta,Maltese (singular and plural),Maltese,MT,MLT,470
+Marshall Islands,Marshallese (singular and plural),Marshallese,MH,MHL,584
+Mauritania,Mauritanian(s),Mauritanian,MR,MRT,478
+Mauritius,Mauritian(s),Mauritian,MU,MUS,480
+Mexico,Mexican(s),Mexican,MX,MEX,484
+"Micronesia, Federated States of",Micronesian(s),"Micronesian; Chuukese, Kosraen(s), Pohnpeian(s), Yapese",FM,FSM,583
+Moldova,Moldovan(s),Moldovan,MD,MDA,498
+Monaco,Monegasque(s) or Monacan(s),Monegasque or Monacan,MC,MCO,492
+Mongolia,Mongolian(s),Mongolian,MN,MNG,496
+Montenegro,Montenegrin(s),Montenegrin,ME,MNE,499
+Montserrat,Montserratian(s),Montserratian,MS,MSR,500
+Morocco,Moroccan(s),Moroccan,MA,MAR,504
+Mozambique,Mozambican(s),Mozambican,MZ,MOZ,508
+Namibia,Namibian(s),Namibian,NA,NAM,516
+Nauru,Nauruan(s),Nauruan,NR,NRU,520
+Nepal,Nepali (singular and plural),Nepali,NP,NPL,524
+Netherlands,"Dutchman(men), Dutchwoman(women)",Dutch,NL,NLD,528
+New Caledonia,New Caledonian(s),New Caledonian,NC,NCL,540
+New Zealand,New Zealander(s),New Zealand,NZ,NZL,554
+Nicaragua,Nicaraguan(s),Nicaraguan,NI,NIC,558
+Nigeria,Nigerian(s),Nigerian,NG,NGA,566
+Niger,Nigerien(s),Nigerien,NE,NER,562
+Niue,Niuean(s),Niuean,NU,NIU,570
+Norfolk Island,Norfolk Islander(s),Norfolk Islander(s),NF,NFK,574
+Northern Mariana Islands,NA (US citizens),NA,MP,MNP,580
+Norway,Norwegian(s),Norwegian,NO,NOR,578
+Oman,Omani(s),Omani,OM,OMN,512
+Pakistan,Pakistani(s),Pakistani,PK,PAK,586
+Palau,Palauan(s),Palauan,PW,PLW,585
+Panama,Panamanian(s),Panamanian,PA,PAN,591
+Papua New Guinea,Papua New Guinean(s),Papua New Guinean,PG,PNG,598
+Paraguay,Paraguayan(s),Paraguayan,PY,PRY,600
+Peru,Peruvian(s),Peruvian,PE,PER,604
+Philippines,Filipino(s),Philippine,PH,PHL,608
+Pitcairn Islands,Pitcairn Islander(s),Pitcairn Islander
+Poland,Pole(s),Polish,PL,POL,616
+Portugal,Portuguese (singular and plural),Portuguese,PT,PRT,620
+Puerto Rico,Puerto Rican(s) (US citizens),Puerto Rican,PR,PRI,630
+Qatar,Qatari(s),Qatari,QA,QAT,634
+Romania,Romanian(s),Romanian,RO,ROU,642
+Russia,Russian(s),Russian
+Rwanda,Rwandan(s),Rwandan,RW,RWA,646
+"Saint Helena, Ascension, and Tristan da Cunha",Saint Helenian(s),Saint Helenian,SH,SHN,654
+Saint Kitts and Nevis,"Kittitian(s), Nevisian(s)","Kittitian, Nevisian",KN,KNA,659
+Saint Lucia,Saint Lucian(s),Saint Lucian,LC,LCA,662
+Saint Pierre and Miquelon,"Frenchman(men), Frenchwoman(women)",French,PM,SPM,666
+Saint Vincent and the Grenadines,Saint Vincentian(s) or Vincentian(s),Saint Vincentian or Vincentian,VC,VCT,670
+Samoa,Samoan(s),Samoan,WS,WSM,882
+San Marino,Sammarinese (singular and plural),Sammarinese,SM,SMR,674
+Sao Tome and Principe,Sao Tomean(s),Sao Tomean,ST,STP,678
+Saudi Arabia,Saudi(s),Saudi or Saudi Arabian,SA,SAU,682
+Senegal,Senegalese (singular and plural),Senegalese,SN,SEN,686
+Serbia,Serb(s),Serbian,RS,SRB,688
+Seychelles,Seychellois (singular and plural),Seychellois,SC,SYC,690
+Sierra Leone,Sierra Leonean(s),Sierra Leonean,SL,SLE,694
+Singapore,Singaporean(s),Singapore,SG,SGP,702
+Slovakia,Slovak(s),Slovak,SK,SVK,703
+Slovenia,Slovene(s),Slovenian,SI,SVN,705
+Solomon Islands,Solomon Islander(s),Solomon Islander,SB,SLB,90
+Somalia,Somali(s),Somali,SO,SOM,706
+South Africa,South African(s),South African,ZA,ZAF,710
+South Sudan,South Sudanese (singular and plural),South Sudanese,SS,SSD,728
+Spain,Spaniard(s),Spanish,ES,ESP,724
+Sri Lanka,Sri Lankan(s),Sri Lankan,LK,LKA,144
+Sudan,Sudanese (singular and plural),Sudanese,SD,SDN,729
+Suriname,Surinamer(s),Surinamese,SR,SUR,740
+Swaziland,Swazi(s),Swazi,SZ,SWZ,748
+Sweden,Swede(s),Swedish,SE,SWE,752
+Switzerland,Swiss (singular and plural),Swiss,CH,CHE,756
+Syria,Syrian(s),Syrian,SY,SYR,760
+Taiwan,Taiwan (singular and plural),example - he or she is from Taiwan; they are from Taiwan,TW,TWN,158
+Tajikistan,Tajikistani(s),Tajikistani,TJ,TJK,762
+Tanzania,Tanzanian(s),Tanzanian
+Thailand,Thai (singular and plural),Thai,TH,THA,764
+Timor-Leste,Timorese,Timorese,TL,TLS,626
+Togo,Togolese (singular and plural),Togolese,TG,TGO,768
+Tokelau,Tokelauan(s),Tokelauan,TK,TKL,772
+Tonga,Tongan(s),Tongan,TO,TON,776
+Trinidad and Tobago,"Trinidadian(s), Tobagonian(s)","Trinidadian, Tobagonian",TT,TTO,780
+Tunisia,Tunisian(s),Tunisian,TN,TUN,788
+Turkey,Turk(s),Turkish,TR,TUR,792
+Turkmenistan,Turkmen(s),Turkmen,TM,TKM,795
+Turks and Caicos Islands,none,none,TC,TCA,796
+Tuvalu,Tuvaluan(s),Tuvaluan,TV,TUV,798
+Uganda,Ugandan(s),Ugandan,UG,UGA,800
+Ukraine,Ukrainian(s),Ukrainian,UA,UKR,804
+United Arab Emirates,Emirati(s),Emirati,AE,ARE,784
+United Kingdom,"Briton(s), British (collective plural)",British,UK,GBR,826
+United States,American(s),American,US,USA,840
+Uruguay,Uruguayan(s),Uruguayan,UY,URY,858
+Uzbekistan,Uzbekistani,Uzbekistani,UZ,UZB,860
+Vanuatu,Ni-Vanuatu (singular and plural),Ni-Vanuatu,VU,VUT,548
+Venezuela,Venezuelan(s),Venezuelan,VE,VEN,862
+Vietnam,Vietnamese (singular and plural),Vietnamese,VN,VNM,704
+Virgin Islands,Virgin Islander(s) (US citizens),Virgin Islander,VI,VIR,850
+Wallis and Futuna,"Wallisian(s), Futunan(s), or Wallis and Futuna Islanders","Wallisian, Futunan, or Wallis and Futuna Islander",WF,WLF,876
+West Bank,NA,NA
+Western Sahara,"Sahrawi(s), Sahraoui(s)","Sahrawi, Sahrawian, Sahraouian",EH,ESH,732
+Yemen,Yemeni(s),Yemeni,YE,YEM,887
+Zambia,Zambian(s),Zambian,ZM,ZMB,894
+Zimbabwe,Zimbabwean(s),Zimbabwean,ZW,ZWE,716

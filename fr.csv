@@ -1,0 +1,195 @@
+name,code,nationality,numerical,alpha3
+France,FR,Française,250,FRA
+Suisse,CH,Suisse,756,CHE
+Belgique,BE,Belge,56,BEL
+Allemagne,DE,Allemande,276,DEU
+Italie,IT,Italienne,380,ITA
+Afghanistan,AF,Afghane,4,AFG
+Albanie,AL,Albanaise,8,ALB
+Algérie,DZ,Algerienne,12,DZA
+États-Unis,US,Americaine,840,USA
+Andorre,AD,Andorrane,20,AND
+Angola,AO,Angolaise,24,AGO
+Antigua-et-Barbuda,AG,Antiguaise et barbudienne,28,ATG
+Argentine,AR,Argentine,32,ARG
+Arménie,AM,Armenienne,51,ARM
+Australie,AU,Australienne,36,AUS
+Autriche,AT,Autrichienne,40,AUT
+Azerbaïdjan,AZ,Azerbaïdjanaise,31,AZE
+Bahamas,BS,Bahamienne,44,BHS
+Bahreïn,BH,Bahreinienne,48,BHR
+Bangladesh,BD,Bangladaise,50,BGD
+Barbade,BB,Barbadienne,52,BRB
+Belize,BZ,Belizienne,84,BLZ
+Bénin,BJ,Beninoise,204,BEN
+Bhoutan,BT,Bhoutanaise,64,BTN
+Bélarus,BY,Bielorusse,112,BLR
+Myanmar,MM,Birmane,104,MMR
+Guinée-Bissau,GW,Bissau-Guinéenne,624,GNB
+Bolivie,BO,Bolivienne,68,BOL
+Bosnie-Herzégovine,BA,Bosnienne,70,BIH
+Botswana,BW,Botswanaise,72,BWA
+Brésil,BR,Bresilienne,76,BRA
+Royaume-Uni,GB,Britannique,826,GBR
+Brunéi Darussalam,BN,Bruneienne,96,BRN
+Bulgarie,BG,Bulgare,100,BGR
+Burkina Faso,BF,Burkinabe,854,BFA
+Burundi,BI,Burundaise,108,BDI
+Cambodge,KH,Cambodgienne,116,KHM
+Cameroun,CM,Camerounaise,120,CMR
+Canada,CA,Canadienne,124,CAN
+Cap-vert,CV,Cap-verdienne,132,CPV
+République Centrafricaine,CF,Centrafricaine,140,CAF
+Chili,CL,Chilienne,152,CHL
+Chine,CN,Chinoise,156,CHN
+Chypre,CY,Chypriote,196,CYP
+Colombie,CO,Colombienne,170,COL
+Comores,KM,Comorienne,174,COM
+République du Congo,CG,Congolaise,178,COG
+Costa Rica,CR,Costaricaine,188,CRI
+Croatie,HR,Croate,191,HRV
+Cuba,CU,Cubaine,192,CUB
+Danemark,DK,Danoise,208,DNK
+Djibouti,DJ,Djiboutienne,262,DJI
+République Dominicaine,DO,Dominicaine,214,DOM
+Dominique,DM,Dominiquaise,212,DMA
+Égypte,EG,Egyptienne,818,EGY
+Émirats Arabes Unis,AE,Emirienne,784,ARE
+Guinée Équatoriale,GQ,Equato-guineenne,226,GNQ
+Équateur,EC,Equatorienne,218,ECU
+Érythrée,ER,Erythreenne,232,ERI
+Espagne,ES,Espagnole,724,ESP
+Timor-Leste,TL,Est-timoraise,626,TLS
+Estonie,EE,Estonienne,233,EST
+Éthiopie,ET,Ethiopienne,231,ETH
+Fidji,FJ,Fidjienne,242,FJI
+Finlande,FI,Finlandaise,246,FIN
+Gabon,GA,Gabonaise,266,GAB
+Gambie,GM,Gambienne,270,GMB
+Géorgie,GE,Georgienne,268,GEO
+Ghana,GH,Ghaneenne,288,GHA
+Grenade,GD,Grenadienne,308,GRD
+Guatemala,GT,Guatemalteque,320,GTM
+Guinée,GN,Guineenne,324,GIN
+Guyane Française,GF,Guyanienne,254,GUF
+Haïti,HT,Haïtienne,332,HTI
+Grèce,GR,Hellenique,300,GRC
+Honduras,HN,Hondurienne,340,HND
+Hongrie,HU,Hongroise,348,HUN
+Inde,IN,Indienne,356,IND
+Indonésie,ID,Indonesienne,360,IDN
+Iraq,IQ,Irakienne,368,IRQ
+Irlande,IE,Irlandaise,372,IRL
+Islande,IS,Islandaise,352,ISL
+Israël,IL,Israélienne,376,ISR
+Côte d'Ivoire,CI,Ivoirienne,384,CIV
+Jamaïque,JM,Jamaïcaine,388,JAM
+Japon,JP,Japonaise,392,JPN
+Jordanie,JO,Jordanienne,400,JOR
+Kazakhstan,KZ,Kazakhstanaise,398,KAZ
+Kenya,KE,Kenyane,404,KEN
+Kirghizistan,KG,Kirghize,417,KGZ
+Kiribati,KI,Kiribatienne,296,KIR
+Saint-Kitts-et-Nevis,KN,Kittitienne-et-nevicienne,659,KNA
+"KOSOVO, REPUBLIQUE DU",XK,Kossovienne
+Koweït,KW,Koweitienne,414,KWT
+République Démocratique Populaire Lao,LA,Laotienne,418,LAO
+Lesotho,LS,Lesothane,426,LSO
+Lettonie,LV,Lettone,428,LVA
+Liban,LB,Libanaise,422,LBN
+Libéria,LR,Liberienne,430,LBR
+Jamahiriya Arabe Libyenne,LY,Libyenne,434,LBY
+Liechtenstein,LI,Liechtensteinoise,438,LIE
+Lituanie,LT,Lituanienne,440,LTU
+Luxembourg,LU,Luxembourgeoise,442,LUX
+L'ex-République Yougoslave de Macédoine,MK,Macedonienne,807,MKD
+Malaisie,MY,Malaisienne,458,MYS
+Malawi,MW,Malawienne,454,MWI
+Maldives,MV,Maldivienne,462,MDV
+Madagascar,MG,Malgache,450,MDG
+Mali,ML,Malienne,466,MLI
+Malte,MT,Maltaise,470,MLT
+Maroc,MA,Marocaine,504,MAR
+Îles Marshall,MH,Marshallaise,584,MHL
+Maurice,MU,Mauricienne,480,MUS
+Mauritanie,MR,Mauritanienne,478,MRT
+Mexique,MX,Mexicaine,484,MEX
+États Fédérés de Micronésie,FM,Micronesienne,583,FSM
+République de Moldova,MD,Moldave,498,MDA
+Monaco,MC,Monegasque,492,MCO
+Mongolie,MN,Mongole,496,MNG
+Monténégro,ME,Montenegrine,499,MNE
+Mozambique,MZ,Mozambicaine,508,MOZ
+Namibie,NA,Namibienne,516,NAM
+Nauru,NR,Nauruane,520,NRU
+Pays-Bas,NL,Neerlandaise,528,NLD
+Nouvelle-Zélande,NZ,Neo-zelandaise,554,NZL
+Népal,NP,Nepalaise,524,NPL
+Nicaragua,NI,Nicaraguayenne,558,NIC
+Nigéria,NG,Nigeriane,566,NGA
+Niger,NE,Nigerienne,562,NER
+République Populaire Démocratique de Corée,KP,Nord-coréenne,408,PRK
+Norvège,NO,Norvegienne,578,NOR
+Oman,OM,Omanaise,512,OMN
+Ouganda,UG,Ougandaise,800,UGA
+Ouzbékistan,UZ,Ouzbeke,860,UZB
+Pakistan,PK,Pakistanaise,586,PAK
+Palaos,PW,Palau,585,PLW
+Territoire Palestinien Occupé,PS,Palestinienne,275,PSE
+Panama,PA,Panameenne,591,PAN
+Papouasie-Nouvelle-Guinée,PG,Papouane-neoguineenne,598,PNG
+Paraguay,PY,Paraguayenne,600,PRY
+Pérou,PE,Peruvienne,604,PER
+Philippines,PH,Philippine,608,PHL
+Pologne,PL,Polonaise,616,POL
+Porto Rico,PR,Portoricaine,630,PRI
+Portugal,PT,Portugaise,620,PRT
+Qatar,QA,Qatarienne,634,QAT
+Roumanie,RO,Roumaine,642,ROU
+Fédération de Russie,RU,Russe,643,RUS
+Rwanda,RW,Rwandaise,646,RWA
+Sainte-Lucie,LC,Saint-Lucienne,662,LCA
+Saint-Marin,SM,Saint-Marinaise,674,SMR
+Saint-Vincent-et-les Grenadines,VC,Saint-Vincentaise-et-Grenadine,670,VCT
+Îles Salomon,SB,Salomonaise,90,SLB
+El Salvador,SV,Salvadorienne,222,SLV
+Samoa,WS,Samoane,882,WSM
+Sao Tomé-et-Principe,ST,Santomeenne,678,STP
+Arabie Saoudite,SA,Saoudienne,682,SAU
+Sénégal,SN,Senegalaise,686,SEN
+Serbie,RS,Serbe,688,SRB
+Seychelles,SC,Seychelloise,690,SYC
+Sierra Leone,SL,Sierra-leonaise,694,SLE
+Singapour,SG,Singapourienne,702,SGP
+Slovaquie,SK,Slovaque,703,SVK
+Slovénie,SI,Slovene,705,SVN
+Somalie,SO,Somalienne,706,SOM
+Soudan,SD,Soudanaise,736,SDN
+Sri Lanka,LK,Sri-lankaise,144,LKA
+Afrique du Sud,ZA,Sud-africaine,710,ZAF
+République de Corée,KR,Sud-coréenne,410,KOR
+Suède,SE,Suedoise,752,SWE
+Suriname,SR,Surinamaise,740,SUR
+Swaziland,SZ,Swazie,748,SWZ
+République Arabe Syrienne,SY,Syrienne,760,SYR
+Tadjikistan,TJ,Tadjike,762,TJK
+Taïwan,TW,Taiwanaise,158,TWN
+République-Unie de Tanzanie,TZ,Tanzanienne,834,TZA
+Tchad,TD,Tchadienne,148,TCD
+République Tchèque,CZ,Tcheque,203,CZE
+Thaïlande,TH,Thaïlandaise,764,THA
+Togo,TG,Tonguienne,768,TGO
+Togo,TG,Tonguienne,768,TGO
+Trinité-et-Tobago,TT,Trinidadienne,780,TTO
+Tunisie,TN,Tunisienne,788,TUN
+Turkménistan,TM,Turkmene,795,TKM
+Turquie,TR,Turque,792,TUR
+Tuvalu,TV,Tuvaluane,798,TUV
+Ukraine,UA,Ukrainienne,804,UKR
+Uruguay,UY,Uruguayenne,858,URY
+Vanuatu,VU,Vanuatuane,548,VUT
+Venezuela,VE,Venezuelienne,862,VEN
+Viet Nam,VN,Vietnamienne,704,VNM
+Yémen,YE,Yemenite,887,YEM
+Zambie,ZM,Zambienne,894,ZMB
+Zimbabwe,ZW,Zimbabweenne,716,ZWE
