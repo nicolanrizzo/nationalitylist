@@ -11,3 +11,4 @@ Sources:
 - [Wikipedia - ISO 3166-1 numeric](https://en.wikipedia.org/wiki/ISO_3166-1_numeric)
 - [CIA - The World Factobook - Appendix d :: cross-reference list of country data codes](https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html)
 - [iso.org - Country Codes - ISO 3166](http://www.iso.org/iso/home/standards/country_codes.htm)
+- [iso.org - Country Codes - Glossary](http://www.iso.org/iso/home/standards/country_codes/country_codes_glossary.htm)
