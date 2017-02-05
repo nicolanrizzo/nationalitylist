@@ -50,12 +50,12 @@ Comoros,Comoran(s),Comoran,KM,COM,174
 "Congo, Republic of the",Congolese (singular and plural),Congolese or Congo,CG,COG,178
 Cook Islands,Cook Islander(s),Cook Islander,CK,COK,184
 Costa Rica,Costa Rican(s),Costa Rican,CR,CRI,188
-Cote d'Ivoire,Ivoirian(s),Ivoirian,,,
+Cote d'Ivoire,Ivoirian(s),Ivoirian,CI,CIV,384
 Croatia,"Croat(s), Croatian(s)",Croatian,HR,HRV,191
 Cuba,Cuban(s),Cuban,CU,CUB,192
-Curacao,Curacaoan,Curacaoan; Dutch,,,
+Curaçao,Curacaoan,Curacaoan; Dutch,CW,CUW,531
 Cyprus,Cypriot(s),Cypriot,CY,CYP,196
-Czechia,Czech(s),Czech,,,
+Czechia,Czech(s),Czech,CZ,CZE,203
 Denmark,Dane(s),Danish,DK,DNK,208
 Djibouti,Djiboutian(s),Djiboutian,DJ,DJI,262
 Dominica,Dominican(s),Dominican,DM,DMA,212
@@ -97,7 +97,7 @@ Hungary,Hungarian(s),Hungarian,HU,HUN,348
 Iceland,Icelander(s),Icelandic,IS,ISL,352
 India,Indian(s),Indian,IN,IND,356
 Indonesia,Indonesian(s),Indonesian,ID,IDN,360
-Iran,Iranian(s),Iranian,,,
+Iran,Iranian(s),Iranian,IR,IRN,364
 Iraq,Iraqi(s),Iraqi,IQ,IRQ,368
 Ireland,"Irishman(men), Irishwoman(women), Irish (collective plural)",Irish,IE,IRL,372
 Isle of Man,"Manxman(men), Manxwoman(women)",Manx,IM,IMN,833
